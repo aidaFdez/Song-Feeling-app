@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spoti Experiment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button_add">Add song</string>
+    <string name="button_connect_Google">Connect to Google</string>
+    <string name="button_connect_spoti">Connect to Spotify</string>
+</resources>
